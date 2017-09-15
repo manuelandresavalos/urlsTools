@@ -2,56 +2,31 @@
 Este repositorio es una recopilación de herramientas online muy útiles para el día a dia en desarrollo web y curiosidades.
 
 ## Varios
-Ver las últimas versiones de cada tecnología para desarrollo web (Wordpress, MongoDB, Ubuntu, Angular, Vue, React, CSS, etc)
- * https://verstory.com/
-
-Ver explicado un comando Shell:
- * https://explainshell.com/
- 
-Flight Radar: Live Radar Tracker
- * https://www.flightradar24.com/-29.89,-62.41/7
- 
-Windy: Ver los vientos a nivel mundial
- * https://www.windy.com/
- 
-Que comemos hoy
- * https://www.yummly.com/
+ * Versiones de Tools https://verstory.com/
+ * Shell: Ver explicado un comando Shell https://explainshell.com/
+ * Flight Radar https://www.flightradar24.com/-29.89,-62.41/7
+ * Windy: Mapa de vientos https://www.windy.com/
+ * Que comemos hoy https://www.yummly.com/
  
 ## Editores
-Editor de md online para stackOverflow:
- * https://stackedit.io/editor
-
-Editor de md online para github:
- * https://jbt.github.io/markdown-editor/
- * https://dillinger.io/
+ * StackOverflow Editor https://stackedit.io/editor
+ * GitHub Editor https://jbt.github.io/markdown-editor/
+ * GitHub Editor https://dillinger.io/
 
 ## Generadores
-CNPJ, CPF, TELEFONOS, TEXTO, etc
- * http://www.theonegenerator.com/es
-
-Texto
- * http://es.lipsum.com/
- * https://codebeautify.org/lorem-ipsum
- 
-Share links
- * https://codebeautify.org/share-link-generator
- 
- Tarjeta de crédito
+ * CNPJ, CPF, TELEFONOS, TEXTO http://www.theonegenerator.com/es
+ * Texto http://es.lipsum.com/
+ * Texto https://codebeautify.org/lorem-ipsum
+ * Share links https://codebeautify.org/share-link-generator
  * Credit Card Fake Number Generator https://codebeautify.org/credit-card-fake-number-generator
  
 ## Beautifiers and formatters
-El mejor embellecedor que existe
- * https://codebeautify.org/
- 
-JSON
- * https://jsonformatter.org/
+ * HTML, CSS, JSON, Others https://codebeautify.org/
+ * JSON https://jsonformatter.org/
 
 ## IT
-Mi IP
- * https://codebeautify.org/ipcheck-weatherinfo-latestnews
-
-Checkeador de status de paginas
- * http://www.isitdownrightnow.com
+ * Mi IP https://codebeautify.org/ipcheck-weatherinfo-latestnews
+ * Pager Status http://www.isitdownrightnow.com
  
 ## Conversores de unidades
  * Length Converter https://codebeautify.org/length-converter
