@@ -19,6 +19,8 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  * Texto https://codebeautify.org/lorem-ipsum
  * Share links https://codebeautify.org/share-link-generator
  * Credit Card Fake Number Generator https://codebeautify.org/credit-card-fake-number-generator
+ * Generador de esquemas de colores https://coolors.co/app
+ * Generador de esquemas de colores http://paletton.com/
  
 ## Beautifiers and formatters
  * HTML, CSS, JSON, Others https://codebeautify.org/
@@ -92,6 +94,7 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  * CREDIT CARD VALIDATOR https://codebeautify.org/credit-card-validate
  * API Test https://codebeautify.org/api-test
  * YAML VALIDATOR https://codebeautify.org/yaml-validator
+ * HTML, CSS, JS on Browsers https://caniuse.com/
 
 ## Number Utilities
  * All Numbers Converter https://codebeautify.org/all-number-converter
@@ -197,3 +200,7 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
 
  ## CryptoGraphy Tools
   * Encryption-Decryption https://codebeautify.org/encrypt-decrypt
+
+## References
+ * HTML References http://htmlreference.io/
+ * CSS References http://cssreference.io/
