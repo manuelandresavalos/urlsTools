@@ -65,6 +65,67 @@ Mi IP
  * Astronomical Converter  https://codebeautify.org/astronomical-converter
  * Frequency Converter  https://codebeautify.org/frequency-converter
  
+ ## Utility
+ * Responsive Website Tester https://codebeautify.org/responsive-website-tester 
+ * Credit Card Validator https://codebeautify.org/credit-card-validate 
+ * Credit Card Fake Number Generator https://codebeautify.org/credit-card-fake-number-generator 
+ * XPath Tester https://codebeautify.org/Xpath-Tester 
+ * Json Path Tester https://codebeautify.org/jsonpath-tester" title="Json Path Tester 
+ * Json Minifier https://codebeautify.org/jsonminifier" title="JSON Minifier 
+ * File Difference https://codebeautify.org/file-diff 
+ * Broken Link Checker https://codebeautify.org/broken-link-checker 
+
+## String Utilities
+ * Random Word Generator https://codebeautify.org/random-word-generator
+ * Password Genrator https://codebeautify.org/password-generator
+ * String Builder https://codebeautify.org/string-builder
+ * NUMBER to WORD CONVERTER https://codebeautify.org/number-to-word-converter
+ * WORD COUNTER https://codebeautify.org/wordcounter
+ * Reverse String https://codebeautify.org/reverse-string
+ * HTML Encode https://codebeautify.org/html-encode-string
+ * HTML Decode https://codebeautify.org/html-decode-string
+ * Base64-Encode https://codebeautify.org/base64-encode
+ * Base64-Decode https://codebeautify.org/base64-decode
+ * URL-Encode A String https://codebeautify.org/url-encode-string
+ * URL-Decode A String https://codebeautify.org/url-decode-string
+ * String to Hex Converter https://codebeautify.org/string-hex-converter
+ * Hex to String Converter https://codebeautify.org/hex-string-converter
+ * String to Binary Converter https://codebeautify.org/string-binary-converter
+ * Binary to String Converter https://codebeautify.org/binary-string-converter
+ * Case Converter  https://codebeautify.org/case-converter
+ * Delimited Text Extractor  https://codebeautify.org/delimited-text-extractor
+ * Remove Accents  https://codebeautify.org/remove-accents
+ * Remove Duplicate Lines https://codebeautify.org/remove-duplicate-lines
+ * Remove Empty Lines https://codebeautify.org/remove-empty-lines
+ * Remove Extra Spaces  https://codebeautify.org/remove-extra-spaces
+ * Remove Line Breaks https://codebeautify.org/remove-line-breaks
+ * Remove Lines Containing https://codebeautify.org/remove-lines-containing
+ * Sort Text Lines https://codebeautify.org/sort-text-lines
+
+## Validators
+ * CSS VALIDATOR https://codebeautify.org/cssvalidate
+ * JAVASCRIPT VALIDATOR https://codebeautify.org/jsvalidate
+ * JSON VALIDATOR https://codebeautify.org/jsonvalidator
+ * XML VALIDATOR https://codebeautify.org/xmlvalidator
+ * CREDIT CARD VALIDATOR https://codebeautify.org/credit-card-validate
+ * API Test https://codebeautify.org/api-test
+ * YAML VALIDATOR https://codebeautify.org/yaml-validator
+
+## Number Utilities
+ * All Numbers Converter https://codebeautify.org/all-number-converter
+ * Decimal to Binary Converter https://codebeautify.org/decimal-binary-converter
+ * Decimal to Hex	Converter https://codebeautify.org/decimal-hex-converter
+ * Decimal to Octal Converter https://codebeautify.org/decimal-octal-converter
+ * Binary to Decimal Converter https://codebeautify.org/binary-decimal-converter
+ * Binary to Hex Converter https://codebeautify.org/binary-hex-converter
+ * Binary to Octal Converter https://codebeautify.org/binary-octal-converter
+ * Hex to Decimal Converter https://codebeautify.org/hex-decimal-converter
+ * Hex to Binary Converter https://codebeautify.org/hex-binary-converter
+ * Hex to Octal Converter https://codebeautify.org/hex-octal-converter
+ * Octal to	Decimal Converter https://codebeautify.org/octal-decimal-converter
+ * Octal to Binary Converter https://codebeautify.org/octal-binary-converter
+ * Octal to Hex Converter https://codebeautify.org/octal-hex-converter
+ 
  ## Conversores 
 * Image to Base64 https://codebeautify.org/image-to-base64-converter
 * Base64 to Image https://codebeautify.org/base64-to-image-converter
