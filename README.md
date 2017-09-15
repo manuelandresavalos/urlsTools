@@ -11,6 +11,9 @@ Ver explicado un comando Shell:
 Flight Radar: Live Radar Tracker
  * https://www.flightradar24.com/-29.89,-62.41/7
  
+Windy: Ver los vientos a nivel mundial
+ * https://www.windy.com/
+ 
 ## Editores
 Editor de md online para stackOverflow:
  * https://stackedit.io/editor
