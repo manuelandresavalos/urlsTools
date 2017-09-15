@@ -33,6 +33,9 @@ Texto
 Share links
  * https://codebeautify.org/share-link-generator
  
+ Tarjeta de crédito
+ * Credit Card Fake Number Generator https://codebeautify.org/credit-card-fake-number-generator
+ 
 ## Beautifiers and formatters
 El mejor embellecedor que existe
  * https://codebeautify.org/
@@ -66,9 +69,7 @@ Mi IP
  * Frequency Converter  https://codebeautify.org/frequency-converter
  
  ## Utility
- * Responsive Website Tester https://codebeautify.org/responsive-website-tester 
- * Credit Card Validator https://codebeautify.org/credit-card-validate 
- * Credit Card Fake Number Generator https://codebeautify.org/credit-card-fake-number-generator 
+ * Responsive Website Tester https://codebeautify.org/responsive-website-tester  
  * XPath Tester https://codebeautify.org/Xpath-Tester 
  * Json Path Tester https://codebeautify.org/jsonpath-tester" title="Json Path Tester 
  * Json Minifier https://codebeautify.org/jsonminifier" title="JSON Minifier 
