@@ -46,6 +46,9 @@ JSON
 ## IT
 Mi IP
  * https://codebeautify.org/ipcheck-weatherinfo-latestnews
+
+Checkeador de status de paginas
+ * http://www.isitdownrightnow.com
  
 ## Conversores de unidades
  * Length Converter https://codebeautify.org/length-converter
