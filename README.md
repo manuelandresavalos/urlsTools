@@ -200,6 +200,7 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
 
  ## CryptoGraphy Tools
   * Encryption-Decryption https://codebeautify.org/encrypt-decrypt
+  * Encryption-Decryption https://cifraronline.com/
 
 ## References
  * HTML References http://htmlreference.io/
