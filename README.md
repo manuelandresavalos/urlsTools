@@ -54,8 +54,8 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  ## Utility
  * Responsive Website Tester https://codebeautify.org/responsive-website-tester  
  * XPath Tester https://codebeautify.org/Xpath-Tester 
- * Json Path Tester https://codebeautify.org/jsonpath-tester" title="Json Path Tester 
- * Json Minifier https://codebeautify.org/jsonminifier" title="JSON Minifier 
+ * Json Path Tester https://codebeautify.org/jsonpath-tester
+ * Json Minifier https://codebeautify.org/jsonminifier
  * File Difference https://codebeautify.org/file-diff 
  * Broken Link Checker https://codebeautify.org/broken-link-checker 
 
