@@ -8,4 +8,5 @@ https://verstory.com/
 https://stackedit.io/editor
 
 #### Editor de md online para github:
+https://jbt.github.io/markdown-editor/
 https://dillinger.io/
