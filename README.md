@@ -206,3 +206,7 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  * HTML References http://htmlreference.io/
  * CSS References http://cssreference.io/
  * HTML & CSS http://marksheet.io/
+ 
+ ## Scraping
+  * Web Scraper http://webscraper.io/
+  * Python Scraper https://scrapy.org/
