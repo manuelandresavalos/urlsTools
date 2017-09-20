@@ -34,6 +34,7 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  * Mi IP https://codebeautify.org/ipcheck-weatherinfo-latestnews
  * Pager Status http://www.isitdownrightnow.com
  * Lista licencias Open Source https://spdx.org/licenses/
+ * Lista licencias Open Source https://opensource.org/licenses
  
 ## Conversores de unidades
  * Length Converter https://codebeautify.org/length-converter
