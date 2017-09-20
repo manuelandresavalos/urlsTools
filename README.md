@@ -10,6 +10,7 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
 ## Clima y Naturaleza
  * Windy: Mapa de vientos https://www.windy.com/
  * Mapa de terremotos https://earthquake.usgs.gov/earthquakes/map/
+ * Terremotos recientes https://es.earthquaketrack.com/recent
 
 ## Editores
  * StackOverflow Editor https://stackedit.io/editor
