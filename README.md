@@ -5,9 +5,12 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  * Versiones de Tools https://verstory.com/
  * Shell: Ver explicado un comando Shell https://explainshell.com/
  * Flight Radar https://www.flightradar24.com/-29.89,-62.41/7
- * Windy: Mapa de vientos https://www.windy.com/
  * Que comemos hoy https://www.yummly.com/
- 
+
+## Clima y Naturaleza
+ * Windy: Mapa de vientos https://www.windy.com/
+ * Mapa de terremotos https://earthquake.usgs.gov/earthquakes/map/
+
 ## Editores
  * StackOverflow Editor https://stackedit.io/editor
  * GitHub Editor https://jbt.github.io/markdown-editor/
