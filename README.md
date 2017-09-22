@@ -12,6 +12,7 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  * Mapa de terremotos https://earthquake.usgs.gov/earthquakes/map/
  * Terremotos recientes https://es.earthquaketrack.com/recent
  * Alertas meteorológicas AR http://www.smn.gov.ar/?mod=pron&id=51
+ * Mapa de Fuegos https://firms.modaps.eosdis.nasa.gov/firemap/
 
 ## Editores
  * StackOverflow Editor https://stackedit.io/editor
