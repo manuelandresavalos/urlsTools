@@ -8,6 +8,7 @@ Listado de sitios referidos a APIs en general
 
 ## Documentación
  * https://docs.rapidapi.com
+ * Consorcio de API https://www.openapis.org
 
 ## Terremotos
  * Listado de terremotos http://www.openhazards.com/data/GetEarthquakeCatalog
