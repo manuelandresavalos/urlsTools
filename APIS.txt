@@ -1,0 +1,8 @@
+# APIs
+Listado de sitios referidos a APIs en general
+
+## Buscador de APIs
+ * {API}Search http://apis.io/
+
+## Terremotos
+ * Listado de terremotos http://www.openhazards.com/data/GetEarthquakeCatalog
