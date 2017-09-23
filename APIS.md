@@ -10,5 +10,8 @@ Listado de sitios referidos a APIs en general
  * https://docs.rapidapi.com
  * Consorcio de API https://www.openapis.org
 
+## Acortadores de urls
+ * bitly http://dev.bitly.com/get_started.html
+
 ## Terremotos
  * Listado de terremotos http://www.openhazards.com/data/GetEarthquakeCatalog
