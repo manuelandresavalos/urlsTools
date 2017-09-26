@@ -15,3 +15,9 @@ Listado de sitios referidos a APIs en general
 
 ## Terremotos
  * Listado de terremotos http://www.openhazards.com/data/GetEarthquakeCatalog
+ 
+## Gifs
+ * GIPHY https://developers.giphy.com/docs/
+ 
+## Imagenes
+ * tumblr https://www.tumblr.com/docs/en/api/v2
