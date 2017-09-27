@@ -66,7 +66,8 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  * Json Path Tester https://codebeautify.org/jsonpath-tester
  * Json Minifier https://codebeautify.org/jsonminifier
  * File Difference https://codebeautify.org/file-diff 
- * Broken Link Checker https://codebeautify.org/broken-link-checker 
+ * Broken Link Checker https://codebeautify.org/broken-link-checker
+ * json Schema http://json-schema.org/
 
 ## String Utilities
  * Random Word Generator https://codebeautify.org/random-word-generator
