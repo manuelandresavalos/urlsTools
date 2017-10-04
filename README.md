@@ -16,13 +16,16 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
 
 ## Editores
  * StackOverflow Editor https://stackedit.io/editor
- * GitHub Editor https://jbt.github.io/markdown-editor/
- * GitHub Editor https://dillinger.io/
+ * GitHub Editor https://jbt.github.io/markdown-editor
+ * GitHub Editor https://dillinger.io
 
-## Monetizadores
- * KickStarter https://www.kickstarter.com/
- * GoFundMe https://www.gofundme.com/
- * Patreon https://www.patreon.com/
+## Monetizadores y Crowdfunding
+ * KickStarter https://www.kickstarter.com
+ * GoFundMe https://www.gofundme.com
+ * Patreon https://www.patreon.com
+ * Idegogo https://www.indiegogo.com
+ * Lanzanos https://www.lanzanos.com
+ * Goteo http://www.goteo.org
  
 ## Generadores
  * CNPJ, CPF, TELEFONOS, TEXTO http://www.theonegenerator.com/es
