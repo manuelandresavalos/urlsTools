@@ -19,6 +19,11 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  * GitHub Editor https://jbt.github.io/markdown-editor/
  * GitHub Editor https://dillinger.io/
 
+## Monetizadores
+ * KickStarter https://www.kickstarter.com/
+ * GoFundMe https://www.gofundme.com/
+ * Patreon https://www.patreon.com/
+ 
 ## Generadores
  * CNPJ, CPF, TELEFONOS, TEXTO http://www.theonegenerator.com/es
  * Texto http://es.lipsum.com/
