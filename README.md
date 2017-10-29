@@ -18,6 +18,8 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  * StackOverflow Editor https://stackedit.io/editor
  * GitHub Editor https://jbt.github.io/markdown-editor
  * GitHub Editor https://dillinger.io
+## Arquitectura
+ * Floor Planner https://floorplanner.com
 
 ## Monetizadores y Crowdfunding
  * KickStarter https://www.kickstarter.com
