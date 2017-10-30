@@ -29,6 +29,7 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  * Lanzanos https://www.lanzanos.com
  * Ulele https://es.ulule.com
  * Goteo http://www.goteo.org
+ * Code Sponsor https://codesponsor.io
  
 ## Generadores
  * CNPJ, CPF, TELEFONOS, TEXTO http://www.theonegenerator.com/es
