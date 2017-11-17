@@ -18,6 +18,7 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  * StackOverflow Editor https://stackedit.io/editor
  * GitHub Editor https://jbt.github.io/markdown-editor
  * GitHub Editor https://dillinger.io
+ 
 ## Arquitectura
  * Floor Planner https://floorplanner.com
 
@@ -80,6 +81,7 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  * File Difference https://codebeautify.org/file-diff 
  * Broken Link Checker https://codebeautify.org/broken-link-checker
  * json Schema http://json-schema.org/
+ * Proximo feriado http://www.elproximoferiado.com 
 
 ## String Utilities
  * Random Word Generator https://codebeautify.org/random-word-generator
