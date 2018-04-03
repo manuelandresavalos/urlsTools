@@ -41,6 +41,28 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  * Generador de esquemas de colores https://coolors.co/app
  * Generador de esquemas de colores http://paletton.com/
  
+ ## Random Numbers
+ * Integer Generator makes random numbers in configurable interval https://www.random.org/integers/
+ * Sequence Generator will randomize an integer sequence of your choic https://www.random.org/sequences/
+ * Integer Set Generator makes sets of non-repeating integer https://www.random.org/integer-sets/
+ * Gaussian Generator makes random numbers to fit a normal distributio https://www.random.org/gaussian-distributions/
+ * Decimal Fraction Generator makes numbers in the [0,1] range with configurable decimal place https://www.random.org/decimal-fractions/
+ * Raw Random Bytes are useful for many cryptographic purpose https://www.random.org/bytes/
+ 
+ ## Random lists
+ * List Randomizer will randomize a list of anything you have (names, phone numbers, etc.) https://www.random.org/lists/
+ * String Generator makes random alphanumeric strings https://www.random.org/strings/
+ * Password Generator makes secure passwords for your Wi-Fi or that extra Gmail account https://www.random.org/passwords/
+ * Clock Time Generator will pick random times of the day https://www.random.org/clock-times/
+ * Calendar Date Generator will pick random days across nearly three and a half millennia https://www.random.org/calendar-dates/
+ * Geographic Coordinate Generator will pick a random spot on our planet's surface https://www.random.org/geographic-coordinates/
+ * Bitmaps in black and white https://www.random.org/bitmaps/
+ * Hexadecimal Color Code Generator will pick color codes, for example for use as web colors<br> https://www.random.org/colors/hex
+ * Pregenerated Files contain large amounts of downloadable random bits https://www.random.org/files/
+ * Pure White Audio Noise for composition or just to test your audio equipment https://www.random.org/audio-noise/
+ * Jazz Scales to practice improvisation for students of jazz guitar https://www.random.org/jazz-scales/
+ * Samuel Beckett's randomly generated short prose https://www.random.org/lessness/
+ 
 ## Beautifiers and formatters
  * HTML, CSS, JSON, Others https://codebeautify.org/
  * JSON https://jsonformatter.org/
