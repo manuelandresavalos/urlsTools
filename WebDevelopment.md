@@ -8,3 +8,6 @@
  
 ## HTTP PROTOCOL
  * HTTP Status Map https://restlet.com/http-status-map/
+
+## Design patterns
+ * OOO Design: http://www.oodesign.com/
