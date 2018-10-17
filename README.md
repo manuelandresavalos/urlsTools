@@ -6,6 +6,7 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  * Shell: Ver explicado un comando Shell https://explainshell.com/
  * Flight Radar https://www.flightradar24.com/-29.89,-62.41/7
  * Que comemos hoy https://www.yummly.com/
+ * Aprender a tocar el piano https://www.synthesiagame.com/
 
 ## Clima y Naturaleza
  * Windy: Mapa de vientos https://www.windy.com/
