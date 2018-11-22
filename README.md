@@ -3,6 +3,7 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
 
 ## Varios
  * Versiones de Tools https://verstory.com/
+ * Tecnologia en que que esta desarrollado un sitio https://builtwith.com
  * Shell: Ver explicado un comando Shell https://explainshell.com/
  * Flight Radar https://www.flightradar24.com/-29.89,-62.41/7
  * Que comemos hoy https://www.yummly.com/
@@ -65,6 +66,7 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  * Samuel Beckett's randomly generated short prose https://www.random.org/lessness/
  
 ## Beautifiers and formatters
+ * HTML Formater Encoder https://www.textfixer.com/html/html-character-encoding.php
  * HTML, CSS, JSON, Others https://codebeautify.org/
  * JSON https://jsonformatter.org/
 
