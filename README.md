@@ -3,7 +3,7 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
 
 ## Varios
  * Versiones de Tools https://verstory.com/
- * Tecnologia en que que esta desarrollado un sitio https://www.mruiz.uat.lan.com/cgi-bin/empresas/registro.cgi
+ * Tecnologia en que que esta desarrollado un sitio https://builtwith.com
  * Shell: Ver explicado un comando Shell https://explainshell.com/
  * Flight Radar https://www.flightradar24.com/-29.89,-62.41/7
  * Que comemos hoy https://www.yummly.com/
