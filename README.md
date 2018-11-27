@@ -8,6 +8,7 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  * Flight Radar https://www.flightradar24.com/-29.89,-62.41/7
  * Que comemos hoy https://www.yummly.com/
  * Aprender a tocar el piano https://www.synthesiagame.com/
+ * Gitmoji, agregar emojis a los commits git, util para slack también https://gitmoji.carloscuesta.me/
 
 ## Clima y Naturaleza
  * Windy: Mapa de vientos https://www.windy.com/
