@@ -265,3 +265,6 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
 ## Presentaciones
  * Prezi: https://prezi.com
  * RealTimeBoard: https://realtimeboard.com
+ 
+## Tiempo
+ * CountDown Time: https://www.online-stopwatch.com/
