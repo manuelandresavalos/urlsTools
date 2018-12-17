@@ -35,3 +35,6 @@
 
 ## Git
  * Git Game: https://learngitbranching.js.org/
+ 
+## Google Cloud Platform
+ * GCP Solutions: http://gcp.solutions/
