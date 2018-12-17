@@ -38,3 +38,6 @@
  
 ## Google Cloud Platform
  * GCP Solutions: http://gcp.solutions/
+ * Sitio oficial: https://cloud.google.com/
+ * Documentación oficial: https://cloud.google.com/docs/
+ * Todos los productos: https://cloud.google.com/products/
