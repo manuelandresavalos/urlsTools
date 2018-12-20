@@ -77,6 +77,7 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  * Lista licencias Open Source https://spdx.org/licenses/
  * Lista licencias Open Source https://opensource.org/licenses
  * Lista licencias Open Source https://getcomposer.org/doc/04-schema.md#license
+ * Fast (test speed from netflix): https://fast.com/es
  
 ## Conversores de unidades
  * Length Converter https://codebeautify.org/length-converter
