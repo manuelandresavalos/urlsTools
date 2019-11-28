@@ -42,4 +42,3 @@
  * Sitio oficial: https://cloud.google.com/
  * Documentación oficial: https://cloud.google.com/docs/
  * Todos los productos: https://cloud.google.com/products/
- * Google Cloud Solutions Architecture Reference: https://gcp.solutions/
