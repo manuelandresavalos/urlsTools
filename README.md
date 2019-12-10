@@ -263,6 +263,9 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  ## Scraping
   * Web Scraper http://webscraper.io/
   * Python Scraper https://scrapy.org/
+  
+## Social Media
+ * Socialblade - https://socialblade.com/youtube
 
 ## Presentaciones
  * Prezi: https://prezi.com
