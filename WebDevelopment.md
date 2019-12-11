@@ -30,7 +30,6 @@
  
 ## Editores de código online
  * Jsfiddle: https://jsfiddle.net/
- * Tinkerbin: http://tinkerbin.com/
  * CodePen: http://codepen.io/
  * JSBin: http://jsbin.com/
 
