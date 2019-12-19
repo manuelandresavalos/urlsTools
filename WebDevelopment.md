@@ -37,6 +37,9 @@
  * SVG Editor: https://editor.method.ac/
  * SVG Games: https://boolean.method.ac/
  * SVG Learnings: https://www.method.ac/
+ 
+## SVG Libraries
+ * Paper JS - http://paperjs.org/
 
 ## Git
  * Git Game: https://learngitbranching.js.org/
