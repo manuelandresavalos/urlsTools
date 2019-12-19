@@ -40,6 +40,9 @@
  
 ## SVG Libraries
  * Paper JS - http://paperjs.org/
+ * Anime JS - https://animejs.com/
+ 
+
 
 ## Git
  * Git Game: https://learngitbranching.js.org/
