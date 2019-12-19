@@ -33,6 +33,11 @@
  * CodePen: http://codepen.io/
  * JSBin: http://jsbin.com/
 
+## SVG
+ * SVG Editor: https://editor.method.ac/
+ * SVG Games: https://boolean.method.ac/
+ * SVG Learnings: https://www.method.ac/
+
 ## Git
  * Git Game: https://learngitbranching.js.org/
  
