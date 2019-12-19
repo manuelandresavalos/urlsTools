@@ -44,6 +44,9 @@
  
 ## Audio Libraries
  * Howler JS - https://howlerjs.com/
+ 
+## Visual Graphics Libraries
+ * D3 JS - https://d3js.org/
 
 ## Git
  * Git Game: https://learngitbranching.js.org/
