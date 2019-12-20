@@ -48,6 +48,9 @@
 ## Visual Graphics Libraries
  * D3 JS - https://d3js.org/
 
+## Templates
+ * AdminLTE - https://github.com/ColorlibHQ/AdminLTE/
+
 ## Git
  * Git Game: https://learngitbranching.js.org/
  
