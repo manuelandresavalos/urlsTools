@@ -62,3 +62,6 @@
  
 ## Icons
  * Flat Icons https://www.flaticon.com/
+ 
+## Node Modules
+ * Webpack - https://webpack.js.org/
