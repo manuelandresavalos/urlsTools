@@ -65,3 +65,5 @@
  
 ## Node Modules
  * Webpack - https://webpack.js.org/
+ * browser-sync - https://www.browsersync.io/
+ * toastr - https://github.com/CodeSeven/toastr
