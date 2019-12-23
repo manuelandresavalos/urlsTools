@@ -273,3 +273,6 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  
 ## Tiempo
  * CountDown Time: https://www.online-stopwatch.com/
+
+## Emojis
+ * Emojipedia - https://emojipedia.org/
