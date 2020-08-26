@@ -44,8 +44,10 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  * Credit Card Fake Number Generator https://codebeautify.org/credit-card-fake-number-generator
  * Generador de esquemas de colores https://coolors.co/app
  * Generador de esquemas de colores http://paletton.com/
+## Fun
+ * Cowsay http://cowsay.morecode.org/
  
- ## Random Numbers
+## Random Numbers
  * Integer Generator makes random numbers in configurable interval https://www.random.org/integers/
  * Sequence Generator will randomize an integer sequence of your choic https://www.random.org/sequences/
  * Integer Set Generator makes sets of non-repeating integer https://www.random.org/integer-sets/
@@ -53,7 +55,7 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  * Decimal Fraction Generator makes numbers in the [0,1] range with configurable decimal place https://www.random.org/decimal-fractions/
  * Raw Random Bytes are useful for many cryptographic purpose https://www.random.org/bytes/
  
- ## Random lists
+## Random lists
  * List Randomizer will randomize a list of anything you have (names, phone numbers, etc.) https://www.random.org/lists/
  * String Generator makes random alphanumeric strings https://www.random.org/strings/
  * Password Generator makes secure passwords for your Wi-Fi or that extra Gmail account https://www.random.org/passwords/
