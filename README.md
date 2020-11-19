@@ -44,6 +44,7 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  * Credit Card Fake Number Generator https://codebeautify.org/credit-card-fake-number-generator
  * Generador de esquemas de colores https://coolors.co/app
  * Generador de esquemas de colores http://paletton.com/
+ * Generador de feedback automático! https://mschmitt.org/performance/
 ## Fun
  * Cowsay http://cowsay.morecode.org/
  
