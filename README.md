@@ -45,6 +45,7 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
  * Generador de esquemas de colores https://coolors.co/app
  * Generador de esquemas de colores http://paletton.com/
  * Generador de feedback automático! https://mschmitt.org/performance/
+ * Generadores de perfiles de usuario! https://randomuser.me/
 ## Fun
  * Cowsay http://cowsay.morecode.org/
  
