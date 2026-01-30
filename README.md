@@ -5,7 +5,7 @@ Este repositorio es una recopilación de herramientas online muy útiles para el
 ## Design patterns
  * Patrones de diseño bien explicados: https://refactoring.guru/design-patterns
 
-## Routempas
+## Routemaps
  * Routemap para frontend: https://roadmap.sh/frontend
  * Routemap para backend: https://roadmap.sh/backend
  * Routemap para full-stack: https://roadmap.sh/full-stack
