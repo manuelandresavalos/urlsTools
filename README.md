@@ -1,6 +1,38 @@
 # Tools
 Este repositorio es una recopilación de herramientas online muy útiles para el día a dia en desarrollo web y curiosidades.
 
+## Programing Path
+# Design patterns
+ * Patrones de diseño bien explicados: https://refactoring.guru/design-patterns
+
+# Routempas
+ * Routemap para frontend: https://roadmap.sh/frontend
+ * Routemap para backend: https://roadmap.sh/backend
+ * Routemap para full-stack: https://roadmap.sh/full-stack
+ * Routemap para devops: https://roadmap.sh/devops
+ * Routemap para devsecops: https://roadmap.sh/devsecops
+ * Routemap para data-analyst: https://roadmap.sh/data-analyst
+ * Routemap para ai-engineer: https://roadmap.sh/ai-engineer
+ * Routemap para ai-data-scientist: https://roadmap.sh/ai-data-scientist
+ * Routemap para data-engineer: https://roadmap.sh/data-engineer
+ * Routemap para android: https://roadmap.sh/android
+ * Routemap para machine-learning: https://roadmap.sh/machine-learning
+ * Routemap para postgresql-dba: https://roadmap.sh/postgresql-dba
+ * Routemap para ios: https://roadmap.sh/ios
+ * Routemap para blockchain: https://roadmap.sh/blockchain
+ * Routemap para qa: https://roadmap.sh/qa
+ * Routemap para software-architect: https://roadmap.sh/software-architect
+ * Routemap para cyber-security: https://roadmap.sh/cyber-security
+ * Routemap para ux-design: https://roadmap.sh/ux-design
+ * Routemap para technical-writer: https://roadmap.sh/technical-writer
+ * Routemap para game-developer: https://roadmap.sh/game-developer
+ * Routemap para server-side-game-developer: https://roadmap.sh/server-side-game-developer
+ * Routemap para mlops: https://roadmap.sh/mlops
+ * Routemap para product-manager: https://roadmap.sh/product-manager
+ * Routemap para engineering-manager: https://roadmap.sh/engineering-manager
+ * Routemap para devrel: https://roadmap.sh/devrel
+ * Routemap para bi-analyst: https://roadmap.sh/bi-analyst
+
 ## Varios
  * Versiones de Tools https://verstory.com/
  * Tecnologia en que que esta desarrollado un sitio https://builtwith.com
